@@ -28,7 +28,7 @@
 
 ### 3. Gewinn 
 
-Unter allen teilnahmeberechtigten Personen verlost Alexander Bodin in Kooperation mit dem dpunkt Verlag drei “Exemplare der Neuauflage von Testen in agilen Projekten” an drei per Zufall ermittelte Personen. Der Gewinn wird den Gewinnern oder Gewinnerinnen nach individueller Rücksprache zugesendet.
+Unter allen teilnahmeberechtigten Personen verlost Alexander Bodin in Kooperation mit dem dpunkt Verlag drei Exemplare der Neuauflage "Testen in agilen Projekten” von Tilo Linz, an drei per Zufall ermittelte Personen. Der Gewinn wird den Gewinnern oder Gewinnerinnen nach individueller Rücksprache zugesendet.
 
 ### 4. Abwicklung 
 
