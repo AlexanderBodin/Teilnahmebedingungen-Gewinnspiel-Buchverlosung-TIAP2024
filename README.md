@@ -53,6 +53,7 @@ Alexander Bodin behält sich das Recht vor, Personen, die falsche Angaben zur Pe
 (7.3) Schadenersatzansprüche gegenüber Alexander Bodin, deren Angestellten, Erfüllungsgehilfen und/oder verbundenen Unternehmen, die im Zusammenhang mit der Aktion stehen, sind ausgeschlossen. Dies gilt nicht bei Vorsatz oder grober Fahrlässigkeit.
 
 (7.4) Ausschließlich anwendbares Recht ist das Recht der Bundesrepublik Deutschland.
+
 (7.5) Sollten einzelne Bestimmungen dieser Teilnahmebedingungen ganz oder teilweise unwirksam sein oder unwirksam werden, bleibt die Wirksamkeit der übrigen Teilnahmebedingungen unberührt. 
 
 (7.6) Der Rechtsweg ist ausgeschlossen.
