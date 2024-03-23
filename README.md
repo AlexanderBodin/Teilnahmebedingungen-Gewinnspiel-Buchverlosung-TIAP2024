@@ -16,7 +16,7 @@
 
 (2.2) Das Gewinnspiel beginnt am DATUM mit dem Posting des LinkedIn-Beitrags und endet am DATUM um XXXX Uhr (MESZ). Eine Teilnahme nach XXXX Uhr am DATUM (Teilnahmeschluss) ist nicht möglich. 
 
-(2.3) Teilnahmeberechtigt ist jede natürliche Person im Alter von mindestens 18 Jahren mit Wohnsitz in Deutschland, die im Internet einen auf den eigenen Namen laufenden, öffentlichen LinkedIn-Kanal führt, dem LinkedIn-Kanal von Alexander Bodin folgt, den betreffenden LinkedIn-Beitrag kommentiert, mit “Gefällt mir” markiert und ggf. weitere Aktivitäten durchführt. Diese sind dem LinkedIn-Beitrag zu entnehmen. 
+(2.3) Teilnahmeberechtigt ist jede natürliche Person im Alter von mindestens 18 Jahren mit Wohnsitz in Deutschland, Österreich oder Schweiz, die im Internet einen auf den eigenen Namen laufenden, öffentlichen LinkedIn-Kanal führt, dem LinkedIn-Kanal von Alexander Bodin folgt, den betreffenden LinkedIn-Beitrag kommentiert, mit “Gefällt mir” markiert und ggf. weitere Aktivitäten durchführt. Diese sind dem LinkedIn-Beitrag zu entnehmen. 
 
 (2.4) Mitarbeiter und Mitarbeiterinnen von Alexander Bodin, deren Angehörige sowie sonstige an der Entwicklung und Durchführung dieser Aktion beteiligten Personen sind vom Gewinnspiel ausgeschlossen. 
 
