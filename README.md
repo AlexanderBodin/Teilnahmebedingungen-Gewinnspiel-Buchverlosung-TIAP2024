@@ -2,7 +2,7 @@
 
 ###### Gewinnspiel | TT. März 2024
 
-####1. Gewinnspiel
+### 1. Gewinnspiel
 
 (1.1) Alexander Bodin teilt das Gewinnspiel auf seinem LinkedIn-Kanal, erreichbar unter: https://linkedin.com/in/bodinalexander 
 
@@ -10,7 +10,7 @@
 
 (1.3) Mit der Teilnahme am Gewinnspiel akzeptieren die Teilnehmer und Teilnehmerinnen die hier vorliegenden Teilnahmebedingungen.
 
-####2. Teilnahme 
+### 2. Teilnahme 
 
 (2.1) Die Teilnahme am Gewinnspiel ist kostenlos und nicht an den Erwerb von Waren oder Dienstleistungen gebunden. 
 
@@ -26,25 +26,25 @@
 
 (2.7) Sollten wir innerhalb von 48 Stunden keine Rückmeldung auf den Kommentar und die Direktnachricht erhalten, behalten wir uns vor, einen neuen Gewinner oder eine neue Gewinnerin zu ermitteln. Wer keine Benachrichtigung erhält, wurde nicht als Gewinner oder Gewinnerin ermittelt. 
 
-####3. Gewinn 
+### 3. Gewinn 
 
 Unter allen teilnahmeberechtigten Personen verlost Alexander Bodin in Kooperation mit dem dpunkt Verlag drei “Exemplare der Neuauflage von Testen in agilen Projekten” an drei per Zufall ermittelte Personen. Der Gewinn wird den Gewinnern oder Gewinnerinnen nach individueller Rücksprache zugesendet.
 
-####4. Abwicklung 
+### 4. Abwicklung 
 
 (4.1) Eine Barauszahlung des Gewinns, dessen Umtausch oder Übertragung auf andere Personen ist nicht möglich. Es besteht kein Anspruch auf die Ausgabe eines Ersatzgewinns. Der Gewinn kann von der ursprünglichen Beschreibung abweichen. 
 
 (4.2) Die Gewinner oder die Gewinnerinnen werden am DATUM ab UHRZEIT zu dem von ihm oder ihr eingestellten Kommentar per Antwort auf den Kommentar und Direktnachricht von Alexander Bodin benachrichtigt. Die Gewinner oder die Gewinnerinnen werden per Direktnachricht aufgefordert, die für die Abwicklung erforderlichen persönlichen Daten (wie z.B. Vor- und Nachname, Adresse, Geburtsdatum) per E-Mail an Alexander Bodin zu senden.       
 
-####5. Datenschutzhinweise    
+### 5. Datenschutzhinweise    
 
 Personenbezogene Informationen werden gemäß den geltenden Datenschutzbestimmungen ausschließlich für die Abwicklung des hier vorliegenden Gewinnspiels erfasst, verarbeitet und verwendet. Nach Abschluss des Gewinnspiels werden sie unverzüglich gelöscht. Eine Weitergabe an Dritte erfolgt nicht, es sei denn, dies ist zur Durchführung des Gewinnspiels erforderlich.      
 
-####6. Ausschluss    
+### 6. Ausschluss    
 
 Alexander Bodin behält sich das Recht vor, Personen, die falsche Angaben zur Person machen, gegen die Teilnahmebedingungen verstoßen, in Kommentaren geltendes Recht oder Rechte Dritter verletzen, Manipulationen vornehmen oder vornehmen lassen, von dem Gewinnspiel auszuschließen. Gewaltverherrlichende, anstößige oder herabwürdigende Kommentare können nicht berücksichtigt oder als Teilnahme am Gewinnspiel gewertet werden.
 
-####7.  Sonstiges
+### 7.  Sonstiges
 
 (7.1) Dieses Gewinnspiel steht in keiner Verbindung zu LinkedIn und wird in keiner Weise von LinkedIn gesponsert oder organisiert. Sämtliche Fragen und Hinweise zum Gewinnspiel sind an Alexander Bodin zu richten. 
 
