@@ -14,13 +14,13 @@
 
 (2.1) Die Teilnahme am Gewinnspiel ist kostenlos und nicht an den Erwerb von Waren oder Dienstleistungen gebunden. 
 
-(2.2) Das Gewinnspiel beginnt am DATUM mit dem Posting des LinkedIn-Beitrags und endet am DATUM um XXXX Uhr (MESZ). Eine Teilnahme nach XXXX Uhr am DATUM (Teilnahmeschluss) ist nicht möglich. 
+(2.2) Das Gewinnspiel beginnt am Dienstag, den 09.04.2024 mit dem Posting des LinkedIn-Beitrags und endet am 30.04.2024 um 23:59 Uhr (MESZ). Eine Teilnahme nach 23:59 Uhr am 30.04.2024 (Teilnahmeschluss) ist nicht möglich. 
 
 (2.3) Teilnahmeberechtigt ist jede natürliche Person im Alter von mindestens 18 Jahren mit Wohnsitz in Deutschland, Österreich oder Schweiz, die im Internet einen auf den eigenen Namen laufenden, öffentlichen LinkedIn-Kanal führt, dem LinkedIn-Kanal von Alexander Bodin folgt, den betreffenden LinkedIn-Beitrag kommentiert, mit “Gefällt mir” markiert und ggf. weitere Aktivitäten durchführt. Diese sind dem LinkedIn-Beitrag zu entnehmen. 
 
 (2.4) Mitarbeiter und Mitarbeiterinnen von Alexander Bodin, deren Angehörige sowie sonstige an der Entwicklung und Durchführung dieser Aktion beteiligten Personen sind vom Gewinnspiel ausgeschlossen. 
 
-(2.5) Die Teilnahme am Gewinnspiel erfolgt über einen Kommentar. Der Gewinner oder die Gewinnerin wird am Tag der Auslosung (DATUM um UHRZEIT) unter allen teilnahmeberechtigen Personen per Zufall ermittelt. Der Gewinner oder die Gewinnerin wird per LinkedIn-Kommentar und Direktnachricht von Alexander Bodin informiert. 
+(2.5) Die Teilnahme am Gewinnspiel erfolgt über einen Kommentar. Der Gewinner oder die Gewinnerin wird am Tag der Auslosung (01.05.2024 um 13:00 Uhr) unter allen teilnahmeberechtigen Personen per Zufall ermittelt. Der Gewinner oder die Gewinnerin wird per LinkedIn-Kommentar und Direktnachricht von Alexander Bodin informiert. 
 
 (2.6) Die Teilnahme über verschiedene LinkedIn-Kanäle sowie maschinell generierte Kommentare ist unzulässig. 
 
@@ -28,13 +28,13 @@
 
 ### 3. Gewinn 
 
-Unter allen teilnahmeberechtigten Personen verlost Alexander Bodin in Kooperation mit dem dpunkt Verlag drei Exemplare der Neuauflage "Testen in agilen Projekten” von Tilo Linz, an drei per Zufall ermittelte Personen. Der Gewinn wird den Gewinnern oder Gewinnerinnen nach individueller Rücksprache zugesendet.
+Unter allen teilnahmeberechtigten Personen verlost Alexander Bodin in Kooperation mit dem dpunkt Verlag drei Exemplare des Buches "Testen in agilen Projekten” von Tilo Linz, an drei per Zufall ermittelte Personen. Der Gewinn wird den Gewinnern oder Gewinnerinnen nach individueller Rücksprache zugesendet.
 
 ### 4. Abwicklung 
 
 (4.1) Eine Barauszahlung des Gewinns, dessen Umtausch oder Übertragung auf andere Personen ist nicht möglich. Es besteht kein Anspruch auf die Ausgabe eines Ersatzgewinns. Der Gewinn kann von der ursprünglichen Beschreibung abweichen. 
 
-(4.2) Die Gewinner oder die Gewinnerinnen werden am DATUM ab UHRZEIT zu dem von ihm oder ihr eingestellten Kommentar per Antwort auf den Kommentar und Direktnachricht von Alexander Bodin benachrichtigt. Die Gewinner oder die Gewinnerinnen werden per Direktnachricht aufgefordert, die für die Abwicklung erforderlichen persönlichen Daten (wie z.B. Vor- und Nachname, Adresse, Geburtsdatum) per E-Mail an Alexander Bodin zu senden.       
+(4.2) Die Gewinner oder die Gewinnerinnen werden am 01.05.2024 ab 18:00 zu dem von ihm oder ihr eingestellten Kommentar per Antwort auf den Kommentar und Direktnachricht von Alexander Bodin benachrichtigt. Die Gewinner oder die Gewinnerinnen werden per Direktnachricht aufgefordert, die für die Abwicklung erforderlichen persönlichen Daten (wie z.B. Vor- und Nachname, Adresse, Geburtsdatum) per E-Mail an Alexander Bodin zu senden.       
 
 ### 5. Datenschutzhinweise    
 
