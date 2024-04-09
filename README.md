@@ -1,6 +1,7 @@
-# Teilnahmebedingungen Gewinnspiel Buchverlosung (TIAP2024)
+# Teilnahmebedingungen Gewinnspiel Buchverlosung "Testen in agilen Projekten" (TIAP2024)
 
-###### Gewinnspiel | TT. März 2024
+
+###### Gewinnspiel | 09. April 2024
 
 ### 1. Gewinnspiel
 
